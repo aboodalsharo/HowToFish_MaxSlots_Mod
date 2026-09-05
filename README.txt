@@ -3,7 +3,7 @@
 =====================================================
 
 Installation:
-1. Make sure BepInEx is installed in the game folder https://github.com/BepInEx/BepInEx/releases,then make sure run the game and exit.
+1. Make sure BepInEx is installed in the game folder https://github.com/BepInEx/BepInEx/releases ,then make sure run the game and exit.
 2. Put HowToFishMaxSlots.dll into:
    How to Fish\BepInEx\plugins\
 3. Run the game, and all 9 inventory slots will be unlocked automatically!
